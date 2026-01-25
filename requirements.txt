@@ -6,3 +6,4 @@ zhconv
 whisper_normalizer
 pyopenjtalk-plus
 compute-wer
+openai-whisper
